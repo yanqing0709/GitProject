@@ -2,7 +2,8 @@
 int main(void)
 {
 	printf("hi");
-//lklkjjlkjljlkjljlkmlkjlknljknljljkljlkjljljlk
-//mbjhbbknljkjhkbkjbkbv
+
+//hellocapoo
+//im fine thanke you
 	return 0;
  } 
